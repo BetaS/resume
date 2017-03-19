@@ -44,7 +44,7 @@ Android / iOS / Web backend & frontend Developer
     - 2010-2011, App:ple PI, Founder `mobile app develop club`
 - Software Maestro 2nd
   - 2011/06 - 2012/01
-  - Supported from "Ministry of Knowledge Economy", South Korea Government
+  - Supported from "MKE" (South Korea government)
   - **Studies**
     - OpenCV study
     - Datamining / machine learning study
@@ -69,6 +69,7 @@ Android / iOS / Web backend & frontend Developer
 - Stonybrook, State University of New York
   - 2015/08 - 2015/12
   - Exchange research student
+  - Supported from "KHU", "IITP" and "MSIP" (South Korea government)
   - **Research Fields**
     - Computer Vision
       - Detecting specific marker
