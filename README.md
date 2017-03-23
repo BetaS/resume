@@ -74,6 +74,73 @@ Android / iOS / Web backend & frontend Developer
     - 2009-2010, Republic of Game, 9th `indie game develop club`
     - 2010-2011, App:ple PI, Founder `mobile app develop club`
     
+### Career
+- Homezzang
+  - 2016.03 ~ 2016.12
+  - CTO
+  - **Projects**
+    - Homezzang (android - closed)
+      - Mobile O2O platform for house cleaning company
+
+- Miggle Soft
+  - 2013.07 ~ 2014.01
+  - Team Leader
+  - Mobile Develop Team
+  - **Projects**
+    - Miggle Kids (android - closed)
+      - Mobile management solution for kindergarten and parents
+    - Miggle Shop (android - closed)
+      - Mobile shopping, reservation and payment solution for small business group
+    - Minggle Call Taxi (android - closed)
+      - Mobile private taxi reservation app 
+
+- U Corp
+  - 2013.01 ~ 2013.07
+  - CTO
+  - **Projects**
+    - VOILA (android - closed)
+      - reward advertise application
+    - LittleFoxⓒ Children song app (Outsourced) ([android](https://play.google.com/store/apps/details?id=com.littlefox.song), [ios](https://itunes.apple.com/us/app/little-fox-english-songs-for-kids/id666158506?mt=8&ign-mpt=uo%3D4))
+      - Live Video Streaming w/ [limelight cdn](https://kr.limelight.com/)
+      
+- Innospark
+  - 2013.01
+  - Intern
+  - Dept. of Game Engine
+  - **Projects**
+    - DragonFriends ([android](https://play.google.com/store/apps/details?id=com.innospark.dragonfriends))
+      - studying cocos-2dx, optimize and custumize
+      - develop 3d animation viewer
+
+- Buzzni
+  - 2011.09 ~ 2012.08
+  - Intern(~2011.11), Research Engineer
+  - Dept. of Mobile App
+  - **Projects**
+    - restaurant guide `hybrid` (android - closed)
+    - movie guide `hybrid` ([android](https://play.google.com/store/apps/details?id=com.andro.moviereview))
+    - shakeshack `native` (android - closed)
+      - recommands restaurant using gps, gyro motion sensing and buzzni reaction history
+    - buzz_crawler `python`
+      - general distributed crawler framework
+    - buzz_vocbot `python` ([github](https://github.com/BetaS/buzzni_vocbot))
+      - crawling review data from ios, android
+      - send VOC(voice of customer) reviews to marketing team via GMail
+    
+- GIO Software
+  - 2010.03 ~ 2011.05
+  - Part-time android developer
+  - **Projects**
+    - MobiPoint `native` (android - closed)
+      - Local market point wallet solution
+      - Using GPS, BT, QR, Google Map
+      - Using ZXing library
+
+- RealApps
+  - 2009.12 ~ 2011.11
+  - Founder
+  - mobile app outsourcing agency
+
 ### Language experiments
 #### General Language
 `C` `C++` `Java` `Python` `Lua` `JavaScript` `Swift` `HTML5` `CSS3` `Matlab`
@@ -97,5 +164,5 @@ Android / iOS / Web backend & frontend Developer
 #### Operating System
 `Mac OS X (**main**)` `Windows` `Ubuntu` `CentOS` `Ubuntu MATE` `Raspbian`
 
-### Projects
+### Personal Projects
 - to be done
